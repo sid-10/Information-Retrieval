@@ -1,7 +1,7 @@
 Corpus: Question-Answer pairs
 Input: Question
 Output: Ranked list of answers; The system does not know which is the most relevant answer.
-Evaluation Statistics Calculated : Precision, Recall, NDCG
+Statistics Calculated : Precision, Recall, NDCG
 Note: The questions whose answers are yes and no are discarded.
 
 print("Importing Libraries.Please Wait...")
